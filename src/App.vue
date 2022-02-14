@@ -1,4 +1,5 @@
 <template>
+  <img src="./assets/logo.png" alt="">
   <m-button />
   <m-icon />
   <button @click="handleLayer">弹窗</button>
